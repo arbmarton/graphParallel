@@ -1,0 +1,12 @@
+alma
+körte
+répa
+macska
+kutya
+vér
+***
+alma körte
+alma macska
+répa macska
+macska kutya
+kutya vér

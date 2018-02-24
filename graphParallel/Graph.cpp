@@ -63,7 +63,7 @@ Graph::Graph(const char* const fileName)
 
 			if (!parentNode || !childNode)
 			{
-				std::cout << "input parsing error: nodes do no exist!\n";
+				std::cout << "input parsing error: nodes do not exist!\n";
 				continue;
 			}
 

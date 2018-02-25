@@ -3,10 +3,10 @@ körte
 répa
 macska
 kutya
-vér
+élet
 ***
 alma körte
 alma macska
 répa macska
 macska kutya
-kutya vér
+kutya élet
